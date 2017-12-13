@@ -1,0 +1,58 @@
+[ 
+     { 
+        "Name" : "saikumar", 
+        "branch" : "IT"      
+      }, 
+      { 
+        "Name" : "sameed",
+        "branch" : "cse" 
+      }, 
+      { 
+        "Name" : "venkatesh", 
+        "branch" : "cse"
+      }, 
+      { 
+        "Name" : "sanjay", 
+        "branch" : "ece"
+      }, 
+      { 
+        "Name" : "ashish", 
+        "branch" : "mech"
+      }, 
+      { 
+        "Name" : "vasanth", 
+        "branch" : "IT"
+      },
+      { 
+        "Name" : "akhil", 
+        "branch" : "biotech"
+      }, 
+      { 
+        "Name" : "ashwin", 
+        "branch" : "ecm"
+      }, 
+      { 
+        "Name" : "pradeep", 
+        "branch" : "civil"
+      }, 
+      { 
+        "Name" : "sandeep", 
+        "branch" : "eee"
+      }, 
+      { 
+        "Name" : "rathod", 
+        "branch" : "Am" 
+      }, 
+      { 
+        "Name" : "akhil", 
+        "branch" : "IT"
+      }, 
+      { 
+        "Name" : "yeshwanth", 
+        "branch" : "IT"
+      },     
+      { 
+        "Name" : "charan", 
+        "branch" : "cse" 
+      } 
+] 
