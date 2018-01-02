@@ -1,9 +1,9 @@
-var fs = require('fs');
-var express = require('express');
-var app = express();
-var randomization = require('shuffle-array');
-var math=require('math');
-var wri= fs.createWriteStream("out.txt");
+let fs = require('fs');
+let express = require('express');
+let app = express();
+let randomization = require('shuffle-array');
+let math=require('math');
+let wri= fs.createWriteStream("out.txt");
 const readline = require('readline');
 const bodyparser=require('body-parser');
 let MongoClient = require('mongodb').MongoClient;
